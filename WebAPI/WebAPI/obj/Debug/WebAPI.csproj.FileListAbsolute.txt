@@ -84,3 +84,6 @@ D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\EntityFramework.dll
 D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\EntityFramework.SqlServer.dll
 D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\EntityFramework.xml
 D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\System.Web.Cors.dll
+D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+D:\Projects\Angular_WebAPI\Restaurant\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml

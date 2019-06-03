@@ -1,0 +1,11 @@
+cdk, material have to the same version of angular --> fix in package.json
+
+Update-package Microsoft.AspNet.WebAPI -reinstall
+Install-package Microsoft.AspNet.WebAPI.Core
+
+// in DBContext
+public DBModel()
+            : base("name=DBModel")
+        {
+            base.Configuration.ProxyCreationEnabled = false;
+        }
